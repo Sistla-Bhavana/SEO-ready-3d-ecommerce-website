@@ -1,0 +1,6 @@
+{
+  "name": "Veld Audio R1",
+  "description": "SEO-ready interactive 3D showcase for the Veld Audio R1 direct-drive reference turntable with exploded mechanical inspection and Schema.org structured data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
